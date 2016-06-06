@@ -1,0 +1,8 @@
+rootProject.name = 'gradle-multi1'
+
+include "app-controller"
+include "app-model"
+include "app-repository"
+//include "app-service"
+//include "app-webapp"
+
